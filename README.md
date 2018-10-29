@@ -4,5 +4,5 @@ Ranking of alternatives is an important part of decision making. This repository
 ## Program Execution
 Users are prompted to enter alternatives in any order, then follow instructions to generate a ranked list of alternatives.
 
-## Future improvements
+## Future Improvements
 * Export to txt file for future reference.
