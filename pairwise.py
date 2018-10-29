@@ -41,3 +41,6 @@ while A < alternative_count:
 #Print ranked alternatives.
 for i in range(alternative_count):
     print("#" + str((i+1)) + " " + alternative_list[i] + "\n")
+
+#Wait for user.
+input()
